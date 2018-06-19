@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "598632709782",
+    "firebase_url": "https://splashawards2018-b98bd.firebaseio.com",
+    "project_id": "splashawards2018-b98bd",
+    "storage_bucket": "splashawards2018-b98bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598632709782:android:12193491ce0330d4",
+        "android_client_info": {
+          "package_name": "com.example.hairilhumsani.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598632709782-oilvf87ne5cpef63j2m4jdpbjkp6cv42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hairilhumsani.myapplication",
+            "certificate_hash": "2a21199351048a9e669d8c7376b7ca9dff88a550"
+          }
+        },
+        {
+          "client_id": "598632709782-o06tsab9osodbj4edn3kj3g8q3g225g9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "598632709782-o06tsab9osodbj4edn3kj3g8q3g225g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA92Kjt0RBeVDC2SoIv-Dy2ljvE-gFLUcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598632709782-o06tsab9osodbj4edn3kj3g8q3g225g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
